@@ -11,7 +11,7 @@ You are going to code an alien that will tell you how old you'd be if you lived 
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/space-age/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/space-age/print).
 
 
 --- collapse ---
