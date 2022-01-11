@@ -1,6 +1,6 @@
 ---
 hero_image: images/space-age.png
-theme:  blue
+theme: blue
 duration: 2
 listed: false
 ingredient: false
@@ -16,10 +16,12 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Storing your age
 - title: Your age on Mercury
 - title: Travel to Mercury
 - title: 'Challenge: Age on other planets'
+  completion: internal
 - title: 'Challenge: Age accuracy'
